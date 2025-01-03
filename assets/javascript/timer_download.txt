@@ -1,0 +1,1 @@
+<script>document.getElementById('delayedLink').addEventListener('click', function(event) {event.preventDefault();let timer = 15;const linkText = event.target;const interval = setInterval(function() {linkText.textContent = `Please Wait ${timer--} seconds...`;if (timer < 0) {clearInterval(interval);window.location.href = linkText.href;}}, 1000);});</script>

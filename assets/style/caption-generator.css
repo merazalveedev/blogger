@@ -1,0 +1,3 @@
+/* Meraz Alvee */
+
+#caption-input,.caption-box{border:1px solid var(--contentL);transition:.3s}#caption-input,#generated-code{padding:10px;width:100%;background:var(--contentB);white-space:pre-wrap}#caption-input{height:120px;font-size:16px;box-shadow:0 0 25px rgba(0,0,0,.07);border-radius:5px}.button{cursor:pointer;margin-left:5px}#caption-preview{margin-top:10px;text-align:left}.caption-box{margin-bottom:15px;padding:10px;background:var(--contentB);border-radius:5px}/*#generated-code{border:1px solid var(--contentL);border-radius:5px;font-size:14px;}*/.noShadow{filter:none}.button-row{display:flex;justify-content:space-between;gap:5px}
